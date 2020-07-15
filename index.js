@@ -23,7 +23,7 @@ var cronometro = (function(){
 
     function zerar(){
         parar()
-        i = -1; //Retorna o contador para 0
+        i = -1;
         
         contador() //Atualiza display
     }
